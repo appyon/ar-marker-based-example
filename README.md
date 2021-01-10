@@ -7,4 +7,6 @@ AR.jsの[「Marker Based Example」](https://ar-js-org.github.io/AR.js-Docs/#mar
 
 ![ARマーカー](pattern-qr_code.png)
 
+マーカーに対してカメラは垂直になるようにすると上手く映る
+
 以上
